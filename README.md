@@ -3,6 +3,8 @@ Nombre del proyecto: El impacto de las nuevas tecnologías en la sociedad: desar
 
 Nombre: Evander Bustos
 
+
 Fecha: 28/06/26
+
 
 Materia: Logica de Programacion
